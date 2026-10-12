@@ -1,0 +1,23 @@
+# Środowiska wirtualne (odtwarzalne przez pip install -r requirements.txt)
+venv/
+.venv/
+
+# Duże dane treningowe (nie mieszczą się na GitHub)
+dataset/
+
+# Cache Pythona
+__pycache__/
+*.pyc
+
+# Logi i wyniki generowane podczas działania (zawierają dane osobowe)
+logs/
+
+# Konfiguracja z hashem PIN (aplikacja tworzy domyślny przy starcie)
+config.json
+
+# Pliki pomocnicze / tymczasowe
+SPRAWOZDANIE.html
+oddanie_BSK/
+
+# System macOS
+.DS_Store
