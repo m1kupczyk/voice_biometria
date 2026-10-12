@@ -1,7 +1,5 @@
 # System kontroli dostępu oparty na biometrii głosowej
 
-Projekt na przedmiot **Bezpieczeństwo systemów komputerowych**
-Autorzy: Krystian Cieloch, Mateusz Kupczyk, Miłosz Piekarski
 
 ## Wymagania
 - Python 3.10+ (testowane na 3.12)
